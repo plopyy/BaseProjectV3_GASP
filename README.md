@@ -32,12 +32,12 @@ Donc tant qu'on rentre dans des fonctionnalités basique et général qui peuven
 Il est essentiel que vos ajouts/changements corresponde au projet et que vous utiliez bien comme il faut la structure des dossiers et la [charte de nommage](https://docs.google.com/document/d/1a8SIlVGqqzxPiAwI2dCA5BdjYYWVSMCU2llDNdNRwGU/edit?tab=t.0).
 
 Pour contribuer, suivez ces étapes:
-1] Cloner le repository
-2] Créez une nouvelle branch (`git checkout -b develop/TonPseudo`)
-3] Fait vos changements
-4] Commit vos changements (`git commit -m 'Descriptions des changements'`)
-5] Push sur la branch (`git push origin develop/TonPseudo`)
-6] Et enfin fait une pull request
+- 1] Cloner le repository
+- 2] Créez une nouvelle branch (`git checkout -b develop/TonPseudo`)
+- 3] Fait vos changements
+- 4] Commit vos changements (`git commit -m 'Descriptions des changements'`)
+- 5] Push sur la branch (`git push origin develop/TonPseudo`)
+- 6] Et enfin fait une pull request
 
 ## License
 [UE-Only Content - Licensed for Use Only with Unreal Engine-based Products](https://www.unrealengine.com/en-US/eula/content)
