@@ -33,17 +33,18 @@ Il est essentiel que vos ajouts/changements corresponde au projet et que vous ut
 
 Pour contribuer, suivez ces étapes:
 - 1] Cloner le repository
-- 2] Créez une nouvelle branch (`git checkout -b develop/TonPseudo`)
+- 2] Créez une nouvelle branch (`git checkout -b feature/ta-fonctionnalite`)
 - 3] Fait vos changements
-- 4] Commit vos changements (`git commit -m 'Descriptions des changements'`)
-- 5] Push sur la branch (`git push origin develop/TonPseudo`)
-- 6] Et enfin fait une pull request
+- 4] Ajout les fichiers (`git add .`)
+- 5] Commit vos changements (`git commit -m 'Descriptions des changements'`)
+- 6] Push sur la branch (`git push origin feature/ta-fonctionnalite`)
+- 7] Et enfin fait une pull request
 
 ## License
 [UE-Only Content - Licensed for Use Only with Unreal Engine-based Products](https://www.unrealengine.com/en-US/eula/content)
 
 ## Contact
-Pour toutes question, suggestions ou retour hésitez pas à venir sur le discord:
+Pour toutes questions, suggestions ou retours hésitez pas à venir sur le discord:
 [Discord](https://discord.com/invite/BPhEr3kGsg)
 
 
