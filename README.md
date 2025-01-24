@@ -30,15 +30,31 @@ Si vous souhaitez participer et améliorer le projet, cela dit j'aimera qu'on re
 Donc tant qu'on rentre dans des fonctionnalités basique et général qui peuvent être autant utilisé sur un jeu de survie, qu'un RPG médiéval ou qu'un shooter.
 
 Il est essentiel que vos ajouts/changements corresponde au projet et que vous utiliez bien comme il faut la structure des dossiers et la [charte de nommage](https://docs.google.com/document/d/1a8SIlVGqqzxPiAwI2dCA5BdjYYWVSMCU2llDNdNRwGU/edit?tab=t.0).
+Je vous conseil d'utiliser [Github Desktop](https://desktop.github.com/download/) !
 
 Pour contribuer, suivez ces étapes:
-- 1] Cloner le repository
-- 2] Créez une nouvelle branch (`git checkout -b feature/ta-fonctionnalite`)
-- 3] Fait vos changements
-- 4] Ajout les fichiers (`git add .`)
-- 5] Commit vos changements (`git commit -m 'Descriptions des changements'`)
-- 6] Push sur la branch (`git push origin feature/ta-fonctionnalite`)
+- 1] Créez un fork
+- 2] Fait vos changements
+- 3] Sélectionnez les fichiers à envoyer (généralement tous)
+
+![image](https://github.com/user-attachments/assets/6bb4bb99-2dcb-4f82-ac05-c802316297bc)
+
+- 4] Donnez un titre et une description clair sur les changements apportés
+
+![image](https://github.com/user-attachments/assets/c16d2e7f-18bb-42de-b664-bd06407bb993)
+
+- 5] Commit les changements
+
+![image](https://github.com/user-attachments/assets/17067337-f250-4e60-a96a-847bd3dff732)
+
+- 6] Push sur le repo
+
+![image](https://github.com/user-attachments/assets/96a7ed54-0e19-4a6e-91b4-4e419578642f)
+
 - 7] Et enfin fait une pull request
+
+![image](https://github.com/user-attachments/assets/c2e191b1-7f2c-4e72-9141-d2c8776c4346)
+
 
 ## License
 [UE-Only Content - Licensed for Use Only with Unreal Engine-based Products](https://www.unrealengine.com/en-US/eula/content)
