@@ -61,10 +61,13 @@ Pour contribuer, suivez ces étapes:
 
 ## Contact
 Pour toutes questions, suggestions ou retours hésitez pas à venir sur le discord:
+
 [Discord](https://discord.com/invite/BPhEr3kGsg)
 
 
 ## Supporter mon travail
 Si vous souhaitez m'aider financièrement, ça m'aidera à acheter le café pour travailler encore plus n_n !
+
 [Patreon](https://www.patreon.com/LyriaStudio)
+
 [Tipeee](https://fr.tipeee.com/lyria-studio/)
