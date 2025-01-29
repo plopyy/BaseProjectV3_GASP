@@ -55,6 +55,20 @@ Pour contribuer, suivez ces étapes:
 
 ![image](https://github.com/user-attachments/assets/c2e191b1-7f2c-4e72-9141-d2c8776c4346)
 
+-----
+
+Je vous conseil également d'executer la commande suivante dans le **Command Prompt**, cela évitera d'avoir le fichier en question qui pop dans la liste des changements alors qu'il ne devrait pas être y être sans avoir a le supprimer du repo
+
+![image](https://github.com/user-attachments/assets/d4a01e84-7828-436d-b162-f5b310643c4a)
+
+**Windows:**
+
+`git update-index --skip-worktree "Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini`
+
+**Mac:**
+
+`git update-index --skip-worktree "Saved/Config/MacEditor/EditorPerProjectUserSettings.ini`
+
 
 ## License
 [UE-Only Content - Licensed for Use Only with Unreal Engine-based Products](https://www.unrealengine.com/en-US/eula/content)
