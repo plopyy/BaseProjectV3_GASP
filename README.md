@@ -1,52 +1,87 @@
-# Game Animation Sample with Overlay Layering
+# BaseProjectV3 GASP+
 
-## Introduction
+## Introduction:
+Le BaseProjectV3 est une structure de dossier organisé ranger et coloré afin d'avoir une bonne base de travail.
 
-Advanced Locomotion System (ALS) provides a nice Overlay System that allows us to alter the entire locomotion animation just by applying simple overlay poses. 
-This project integrates the ALS Overlay Layering System into the new Unreal Engine Motion Matching Game Animation Sample.
+Ici il s'agit d'une réorganisation du Game Animation Sample Project (GASP) sur l'architecture BaseProjectV3, avec
+un retarget complet des animations pour le skeleton UE5 (Manny/Queen).
 
-## Features
+En plus de cela, j'ai intégré le système d'overlay du Advanced Locomotion System (ALS), ainsi qu'une base pour
+l'utilisation de personnage modulaire, ainsi que la possibilité d'utiliser le traversal du GASP sur n'importe que surface.
 
-- Game Animation Sample
-- Overlay layering system built with separate Anim Graphs and Linked Layers
-- All overlays from ALS
-- Basic weapon attach system from ALS
-- Basic overlay switcher widget from ALS
-- Removed Echo and Twinblast characters and Manny/Quinn 4k textures to lower project size
+## Fonctionnalitées:
+- BaseProjectV3
+- Game Animation Sample Project (GASP)
+- Tous les animations sont basé sur le skeleton UE5
+- Le système d'Overlay d'ALS
+- Tous les Overlays pré intégré a ALS
+- Tous les armes et autres équipement d'ALS
+- Le menu debug de changement d'overlay d'ALS
+- J'ai supprimé tous les auto retarget, et les perso autre que le mannequin UE5
 
-## Overview
+## Vidéo:
+Une petite présentation et aperçu du projet dans cette vidéo sur ma chaine youtube: [Lyria Studio](https://youtu.be/KGgd7l5As4s)
 
-An overview of the system is available on my YouTube channel [Polygon Hive](https://www.youtube.com/watch?v=RDWNfIqvWBk&list=PLs9e0eJQMI2aaulgKJzC8feN1UEwDkEnq)
+Mise à jour pour l'ajout du système d'overlay: [Lyria Studio](https://youtu.be/kM4vRaiceUI)
 
-## Contributing
+## Contribution:
+Si vous souhaitez participer et améliorer le projet, cela dit j'aimera qu'on reste dans la base, il ne s'agit pas de faire un kit complet.
 
-Contributions are welcome! I hope that, with the help of the community, we can turn this into a next-gen fully featured locomotion system. 
+Donc tant qu'on rentre dans des fonctionnalités basique et général qui peuvent être autant utilisé sur un jeu de survie, qu'un RPG médiéval ou qu'un shooter.
 
-Please follow these steps to contribute:
+Il est essentiel que vos ajouts/changements corresponde au projet et que vous utiliez bien comme il faut la structure des dossiers et la [charte de nommage](https://docs.google.com/document/d/1a8SIlVGqqzxPiAwI2dCA5BdjYYWVSMCU2llDNdNRwGU/edit?tab=t.0).
+Je vous conseil d'utiliser [Github Desktop](https://desktop.github.com/download/) !
 
-1. Clone the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature`).
-6. Open a pull request.
+Pour contribuer, suivez ces étapes:
+- 1] Créez un fork
+- 2] Fait vos changements
+- 3] Sélectionnez les fichiers à envoyer (généralement tous)
 
-Please ensure your code follows the project's coding and naming standards.
+![image](https://github.com/user-attachments/assets/6bb4bb99-2dcb-4f82-ac05-c802316297bc)
+
+- 4] Donnez un titre et une description clair sur les changements apportés
+
+![image](https://github.com/user-attachments/assets/c16d2e7f-18bb-42de-b664-bd06407bb993)
+
+- 5] Commit les changements
+
+![image](https://github.com/user-attachments/assets/17067337-f250-4e60-a96a-847bd3dff732)
+
+- 6] Push sur le repo
+
+![image](https://github.com/user-attachments/assets/96a7ed54-0e19-4a6e-91b4-4e419578642f)
+
+- 7] Et enfin fait une pull request
+
+![image](https://github.com/user-attachments/assets/c2e191b1-7f2c-4e72-9141-d2c8776c4346)
+
+-----
+
+Je vous conseil également d'executer la commande suivante dans le **Command Prompt**, cela évitera d'avoir le fichier en question qui pop dans la liste des changements alors qu'il ne devrait pas être y être sans avoir a le supprimer du repo
+
+![image](https://github.com/user-attachments/assets/d4a01e84-7828-436d-b162-f5b310643c4a)
+
+**Windows:**
+
+`git update-index --skip-worktree "Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini`
+
+**Mac:**
+
+`git update-index --skip-worktree "Saved/Config/MacEditor/EditorPerProjectUserSettings.ini`
+
 
 ## License
-
 [UE-Only Content - Licensed for Use Only with Unreal Engine-based Products](https://www.unrealengine.com/en-US/eula/content)
 
 ## Contact
+Pour toutes questions, suggestions ou retours hésitez pas à venir sur le discord:
 
-For questions, suggestions, or feedback, please contact:
+[Discord](https://discord.com/invite/BPhEr3kGsg)
 
-- Anas EL FERACHI - [anas@polygonhive.com](mailto:anas@polygonhive.com)
 
-## Support My Work
+## Supporter mon travail
+Si vous souhaitez m'aider financièrement, ça m'aidera à acheter le café pour travailler encore plus n_n !
 
-- 
----
+[Patreon](https://www.patreon.com/LyriaStudio)
 
-Thanks for checking out the project! I hope it helps you create amazing games.
-
+[Tipeee](https://fr.tipeee.com/lyria-studio/)
